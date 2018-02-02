@@ -1,0 +1,14 @@
+{
+    "users": [
+      {
+          "firstName": "Max",
+          "lastName": "Cold",
+          "email": "maxcold@gmail.com",
+          "age": "30",
+          "dateBirth": "01.04.1986",
+          "address": "Solomenska Street",
+          "city": "Kyiv",
+          "country": "Ukraine"
+      }
+    ]
+  }
